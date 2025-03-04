@@ -11,5 +11,5 @@ The database for running scripts is located in the "DB" folder.
 ### Load an SQL script using the "Query Tool":  
 1. In the left menu, select the desired database.  
 2. In the top menu, click **Tools → Query Tool**.  
-3. Click **"Open File"** (folder icon) and select `123.sql`.  
+3. Click **"Open File"** (folder icon) and select `*.sql`.  
 4. Click **"Execute"** (▶ icon) to run the script. 
